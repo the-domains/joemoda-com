@@ -1,7 +1,7 @@
 name: joemoda.com
 favicon: null
-layout_spectrum: 0.72087
-typography_spectrum: 0.51213
+layout_spectrum: 0.49154
+typography_spectrum: 0.15365
 title: null
 cta:
   domain: null
@@ -22,10 +22,10 @@ color:
     - '#808888'
     - '#7890C8'
     - '#000000'
-  brandStrength: 0.567491
+  brandStrength: 0.9375
   lightness: 0.625
-  saturation: 0.653614
-  rhythmicContrast: 0.871387
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose:
   - name: null
     item: null
