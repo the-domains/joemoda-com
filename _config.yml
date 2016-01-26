@@ -1,4 +1,20 @@
-analytics: {}
+name: joemoda.com
+favicon: null
+layout_spectrum: 0.72087
+typography_spectrum: 0.51213
+title: null
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#A0A8B0'
@@ -8,12 +24,9 @@ color:
     - '#000000'
   brandStrength: 0.567491
   lightness: 0.625
-  rhythmicContrast: 0.871387
   saturation: 0.653614
-cta: {}
-layout_spectrum: 0.72087
-name: joemoda.com
-opengraph: {}
+  rhythmicContrast: 0.871387
 purpose:
-  - {}
-typography_spectrum: 0.51213
+  - name: null
+    item: null
+    url: null
