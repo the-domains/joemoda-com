@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Joemoda.com]]></title>
-        <description><![CDATA[Joemoda.com]]></description>
-        <link>https://thegrid.ai/joemoda-com/</link>
+        <title><![CDATA[joemoda.com]]></title>
+        <description><![CDATA[joemoda.com]]></description>
+        <link>http://joemoda.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 14:56:02 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/joemoda-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 06:45:37 GMT</lastBuildDate>
+        <atom:link href="http://joemoda.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddbf662d950c0728a19c44c71fedaf9e51904ced.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/joemoda-com/71ff7a16-e2c9-41b3-88d3-8789921c0d13/index.html</link>
+            <link>http://joemoda.com/71ff7a16-e2c9-41b3-88d3-8789921c0d13/index.html</link>
             <guid isPermaLink="false">71ff7a16-e2c9-41b3-88d3-8789921c0d13</guid>
-            <pubDate>Sun, 17 Jan 2016 14:56:01 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 06:45:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
