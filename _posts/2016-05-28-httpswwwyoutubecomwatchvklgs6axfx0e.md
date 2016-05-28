@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-28T15:19:58.445Z'
-dateModified: '2016-05-28T15:19:37.179Z'
+description: My first song write/production.
+datePublished: '2016-05-28T15:21:35.334Z'
+dateModified: '2016-05-28T15:21:11.089Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-28-httpswwwyoutubecomwatchvklgs6axfx0e.md
