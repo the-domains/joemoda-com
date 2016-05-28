@@ -4,14 +4,21 @@
         <description><![CDATA[joemoda.com]]></description>
         <link>http://joemoda.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 15:33:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 May 2016 15:14:10 GMT</lastBuildDate>
         <atom:link href="http://joemoda.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Pursuit of Creative & Professional Excellence]]></title>
-            <description><![CDATA[<article><h1>The Pursuit of Creative & Professional Excellence</h1><p>Creative / Professional</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/43cbd45fe2b27436a10a064795c889d33808f4b6.jpg"></article>]]></description>
-            <link>http://joemoda.com/creative-professional/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b838af32-d3b2-4eb8-bc9b-d513d8b7abd4.JPG">]]></description>
+            <link>Discovery International</link>
             <guid isPermaLink="false">71ff7a16-e2c9-41b3-88d3-8789921c0d13</guid>
-            <pubDate>Tue, 26 Jan 2016 15:32:26 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2016 15:50:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.youtube.com/watch?v=klgs6aXFx0E</p>]]></description>
+            <link>http://joemoda.com/httpswwwyoutubecomwatchvklgs6axfx0e/index.html</link>
+            <guid isPermaLink="false">489e96e3-dad0-401c-8655-f7613e46116d</guid>
+            <pubDate>Sat, 28 May 2016 15:14:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
