@@ -1,32 +1,95 @@
 name: joemoda.com
-favicon: null
-layout_spectrum: 0.38802
-typography_spectrum: 0.4431
-title: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea53c4d9-9db1-4fef-b938-2d5d0cf72336.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4be3d9e-41cc-40f7-91e3-53912ba052a4.png
+layout_spectrum: 0.5211517312216324
+typography_spectrum: 0.35677034494208887
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/b793061c-f40a-4483-99c6-c70af3d53d92.png
 color:
   brandColors:
-    - '#fafbf6'
-    - '#c1c2bd'
-    - '#160000'
-    - '#9d0000'
-    - '#5a3219'
-  brandStrength: 0.6875
-  lightness: 0.75
-  saturation: 0.5
-  rhythmicContrast: 0.75
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+  brandStrength: 0.8631899820072668
+  lightness: 0.020006629331590663
+  saturation: 0.8301192893556291
+  rhythmicContrast: 0.30510716561163487
 purpose:
-  - name: null
-    item: null
-    url: null
+  - type: contact
+    label: 'Contact '
+    url: 'mailto:ggmoda@gmail.com'
+  - type: contact
+    label: '+393274249555'
+    url: 'tel:+393274249555'
+title: International Creative Professional for Hire
+description: ''
+author:
+  email: ggmoda@gmail.com
+content_rating:
+  adult: false
+navigation:
+  - name: 'My first song write, to full production.'
+    url: 'https://www.youtube.com/watch?v=klgs6aXFx0E'
+    type: external
+  - name: Lotto Australia Commercial
+    url: 'https://vimeo.com/75368581'
+    type: external
+  - name: Modamouth on Facebook
+    url: 'https://www.facebook.com/modamouth/?ref=aymt_homepage_panel'
+    type: external
+  - name: 'IMDB '
+    url: 'http://www.imdb.com/name/nm7479108/?ref_=rvi_nm'
+    type: external
+  - name: 'Giardini Da Incubo '
+    url: 'https://vimeo.com/208920725'
+    type: external
+  - name: Breaking Point  with Bear Grylls- ( English Version )
+    url: 'https://vimeo.com/230310372'
+    type: external
+  - name: >-
+      Pout - push your lip's out ! My debut Pop Dance track with some amazing
+      international remixes.
+      https://m.facebook.com/story.php?story_fbid=1860126950694691&id=582722708435128
+    id: 71ff7a16-e2c9-41b3-88d3-8789921c0d13
+    type: content
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F230310372&url=https%3A%2F%2Fvimeo.com%2F230310372&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F650850479_1280.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=vimeo"
+      width="1000" height="563" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      '@type': VideoObject
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://vimeo.com/230310372'
+      keywords: []
+      title: BREAKING POINT - Bear Grylls and Me
+      publisher:
+        name: Vimeo
+        domain: vimeo.com
+        url: 'https://vimeo.com/'
+        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+      author:
+        - name: Joe
+          url: 'https://vimeo.com/user64249986'
+          avatar: {}
+      starred: false
+      description: >-
+        Joe Moda in the Italian Dolomites, conquering his fear of Heights with
+        Bear Grylls . Reality TV at it's finest.
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
