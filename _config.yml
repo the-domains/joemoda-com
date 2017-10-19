@@ -55,12 +55,9 @@ navigation:
   - name: Breaking Point  with Bear Grylls- ( English Version )
     url: 'https://vimeo.com/230310372'
     type: external
-  - name: >-
-      Pout - push your lip's out ! My debut Pop Dance track with some amazing
-      international remixes.
-      https://m.facebook.com/story.php?story_fbid=1860126950694691&id=582722708435128
-    id: 71ff7a16-e2c9-41b3-88d3-8789921c0d13
-    type: content
+  - name: Pout - push your lip's out ! Official music video.
+    url: 'https://youtu.be/fL_VahSLqwM'
+    type: external
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
