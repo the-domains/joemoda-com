@@ -52,6 +52,9 @@ navigation:
   - name: 'Giardini Da Incubo '
     url: 'https://vimeo.com/208920725'
     type: external
+  - name: Bear Grylls and me - Breaking Point
+    url: 'https://vimeo.com/230310372'
+    type: external
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
