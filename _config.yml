@@ -52,12 +52,6 @@ navigation:
   - name: 'Giardini Da Incubo '
     url: 'https://vimeo.com/208920725'
     type: external
-  - name: Breaking Point  with Bear Grylls- ( English Version )
-    url: 'https://vimeo.com/230310372'
-    type: external
-  - name: Pout - push your lip's out ! Official music video.
-    url: 'https://youtu.be/fL_VahSLqwM'
-    type: external
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
