@@ -1,15 +1,5 @@
-name: joemoda.com
-favicon: null
-logo: null
-layout_spectrum: 0.5211517312216324
-typography_spectrum: 0.35677034494208887
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/b793061c-f40a-4483-99c6-c70af3d53d92.png
+layout_spectrum: 0.345501578900834
+typography_spectrum: 0.5896061435449721
 color:
   brandColors:
     - '#000000'
@@ -17,10 +7,20 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-  brandStrength: 0.8631899820072668
-  lightness: 0.020006629331590663
-  saturation: 0.8301192893556291
-  rhythmicContrast: 0.30510716561163487
+  brandStrength: 0.11575207696655894
+  lightness: 0.28834677886393034
+  saturation: 0.6383638404099511
+  rhythmicContrast: 0.8589546657803625
+name: joemoda.com
+favicon: null
+logo: null
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/b793061c-f40a-4483-99c6-c70af3d53d92.png
 purpose:
   - type: contact
     label: 'Contact '
