@@ -42,9 +42,6 @@ navigation:
   - name: 'My first song write, to full production.'
     url: 'https://www.youtube.com/watch?v=klgs6aXFx0E'
     type: external
-  - name: Lotto Australia Commercial
-    url: 'https://vimeo.com/75368581'
-    type: external
   - name: Modamouth on Facebook
     url: 'https://www.facebook.com/modamouth/?ref=aymt_homepage_panel'
     type: external
