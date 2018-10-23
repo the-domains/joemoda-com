@@ -52,35 +52,5 @@ navigation:
   - name: Bear Grylls and me - Breaking Point
     url: 'https://vimeo.com/230310372'
     type: external
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: video
-    html: >-
-      <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F230310372&url=https%3A%2F%2Fvimeo.com%2F230310372&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F650850479_1280.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=vimeo"
-      width="1000" height="563" scrolling="no" frameborder="0"
-      allowfullscreen></iframe>
-    src: !<tag:yaml.org,2002:js/undefined> ''
-    metadata:
-      '@type': VideoObject
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://vimeo.com/230310372'
-      keywords: []
-      title: BREAKING POINT - Bear Grylls and Me
-      publisher:
-        name: Vimeo
-        domain: vimeo.com
-        url: 'https://vimeo.com/'
-        favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-      author:
-        - name: Joe
-          url: 'https://vimeo.com/user64249986'
-          avatar: {}
-      starred: false
-      description: >-
-        Joe Moda in the Italian Dolomites, conquering his fear of Heights with
-        Bear Grylls . Reality TV at it's finest.
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 github: true
