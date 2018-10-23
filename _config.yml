@@ -1,8 +1,6 @@
 name: joemoda.com
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea53c4d9-9db1-4fef-b938-2d5d0cf72336.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4be3d9e-41cc-40f7-91e3-53912ba052a4.png
+favicon: null
+logo: null
 layout_spectrum: 0.5211517312216324
 typography_spectrum: 0.35677034494208887
 cta: {}
